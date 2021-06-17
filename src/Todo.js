@@ -15,6 +15,7 @@ export const Todo = ({todo, removeTodo}) => {
     )
 }
 
+
 const styles = StyleSheet.create({
     container: {
         flexDirection: 'row',
